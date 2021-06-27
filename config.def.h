@@ -8,9 +8,9 @@ static const char *fonts[] = {
 	 "Hack:size=14:antialias=true:autohint=true",
 };
 static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */
-static const char col_dark[]   = "#282c34";
+static const char col_dark[]   = "#282a36";
 static const char col_light[]  = "#d7d7d7";
-static const char col_red[]    = "#924441";
+static const char col_red[]    = "#88527F";
 static const char col_gray[]   = "#404040";
 static const char *colors[SchemeLast][2] = {
 	/*     fg         bg       */
